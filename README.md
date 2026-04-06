@@ -22,7 +22,7 @@ This project demonstrates *game networking fundamentals, asynchronous systems, a
 | *Type*         | Multiplayer Simulation / Metaverse            |
 | *Architecture* | Client-Server (WebSocket-based)              |
 | *Language*     | Python (Full Stack)                          |
-| *Use Case*     | Remote Teams, Social Collaboration           |
+| *DEMO*     |📹 **[Watch the walkthrough on YouTube]([https://youtu.be/OIGSAP_ApDU](https://youtu.be/E05boNZm9fg))**           |
 
 ---
 
@@ -66,13 +66,8 @@ Virtual Cosmos introduces a *"Presence-First Communication Model"*:
 ### 📸 Product Preview  
 
 #### 🗺️ Virtual Environment  
-*(Add environment screenshot here)*  
-
-#### 🧑‍🤝‍🧑 Multiplayer Interaction  
-*(Add multiplayer screenshot here)*  
-
-#### 💬 Spatial Chat  
-*(Add chat interaction screenshot here)*  
+![view](./cosmos.png)  
+ 
 
 ---
 
