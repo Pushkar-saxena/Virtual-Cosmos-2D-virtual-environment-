@@ -22,7 +22,7 @@ This project demonstrates *game networking fundamentals, asynchronous systems, a
 | *Type*         | Multiplayer Simulation / Metaverse            |
 | *Architecture* | Client-Server (WebSocket-based)              |
 | *Language*     | Python (Full Stack)                          |
-| *DEMO*     |📹 **[Watch the walkthrough on YouTube]([https://youtu.be/OIGSAP_ApDU](https://youtu.be/E05boNZm9fg))**           |
+| *DEMO*     |📹 **[Watch the walkthrough on YouTube](https://youtu.be/E05boNZm9fg)**           |
 
 ---
 
